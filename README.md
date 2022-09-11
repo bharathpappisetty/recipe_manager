@@ -24,7 +24,7 @@ Prerequisites/Installations used
 ## API Reference
 #### /swagger-ui/index.html
 
-    http(s)://<server>/search
+    http(s)://<server>/api/v1/recipes/search
 
 
 This API helps to search Recipe by its attributes
